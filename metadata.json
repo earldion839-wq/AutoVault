@@ -1,0 +1,6 @@
+{
+  "name": "AutoVault",
+  "description": "Trusted automotive spare parts compatibility, AI RC card scanning, and instant vehicle scrap valuation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
